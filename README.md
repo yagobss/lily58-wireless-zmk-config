@@ -1,7 +1,7 @@
 Configuration made with https://nickcoutsos.github.io/keymap-editor/
 
-Firmware with "JR Keeb Choc" on branch choc_ble_name
-Firmware with "JR Keeb MX" on branch mx_ble_name
+- Firmware with BLE name "JR Keeb Choc" on branch choc_ble_name
+- Firmware with BLE name "JR Keeb MX" on branch mx_ble_name
 
 Get the firmware file from actions
 
